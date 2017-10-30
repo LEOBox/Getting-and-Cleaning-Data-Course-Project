@@ -4,7 +4,7 @@
 Find in readme.md
 
 # Selected Features
-1     1               tBodyAcc-mean()-X
+1     1               tBodyAcc-mean()-X 
 2     2               tBodyAcc-mean()-Y
 3     3               tBodyAcc-mean()-Z
 4     4                tBodyAcc-std()-X
